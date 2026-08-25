@@ -1,0 +1,10 @@
+{
+  "name": "Aurora 音乐",
+  "short_name": "Aurora",
+  "description": "华语、英语与粤语的双曲库音乐应用",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0d12",
+  "theme_color": "#0d0d12",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
